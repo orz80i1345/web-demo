@@ -1,0 +1,15 @@
+{
+  "name": "mini-ssg-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsx build.jsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0"
+  }
+}
